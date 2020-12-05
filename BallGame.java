@@ -54,7 +54,7 @@ str="Game Over";
             {
             if((dir%2)==0)
             by=by-3;                           //gravity
-            if(by<=305)                        //ball jump heigt
+            if(by<=305)                        //ball jump height
             dir++;
                      if(dir!=0&&by>=385)       //ground
                      {

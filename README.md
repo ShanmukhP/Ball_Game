@@ -9,4 +9,4 @@ Simple Ball Game made using Java Applets
 - when ball comes in contact with any obstacles, game is over
 - game never stops until it is over
 
-multi-threading is used to control the ball movement and to reduce excessive computations and refresh rate.
+multi-threading is used to control the ball movement and reduce excessive computations and screen refresh rate.
